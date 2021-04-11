@@ -1,0 +1,25 @@
+﻿
+@{       
+    ViewData["Title"] = "Login";
+
+}
+<body>
+    <div id="center">
+        <form class="" action="index.html" method="post">
+            <h3> Log in to the Electronic Learning System</h3><hr>
+            <label for="UserName">UserName (Email): </label><br>
+            <input type="text" name="UserName" value="" placeholder="generic_email@outlook.com"><br>
+
+            <label for="Pasword"> Password:</label><br>
+            <input type="text" name="Password" value="" placeholder="**********"><br>
+        </form><br />
+        <input type="submit" name="" value="Login"><br><hr>
+        <span>
+            <a class="LoginPassword" href="/Home/ResetPassword"
+               target="_blank">Forgot login ID or Password?</a>
+        </span>
+        <span>
+            <a class="RegisterUser" asp-area="" asp-controller="User" asp-action="Add">New User?</a>
+        </span>
+    </div>
+</body>

@@ -1,0 +1,40 @@
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Electronic Learning System.AssemblyInfoInputs.cache
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Electronic Learning System.AssemblyInfo.cs
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Electronic Learning System.csproj.CoreCompileInputs.cache
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Electronic Learning System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Electronic Learning System.RazorAssemblyInfo.cache
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Electronic Learning System.RazorAssemblyInfo.cs
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\Electronic Learning System.StaticWebAssets.Manifest.cache
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\Electronic Learning System.StaticWebAssets.xml
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Electronic Learning System.styles.css
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Electronic Learning System.TagHelpers.input.cache
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Electronic Learning System.TagHelpers.output.cache
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Electronic Learning System.RazorCoreGenerate.cache
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\LogIn.cshtml.g.cs
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\User\Add.cshtml.g.cs
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Electronic Learning System.RazorTargetAssemblyInfo.cache
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Electronic Learning System.RazorTargetAssemblyInfo.cs
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Electronic Learning System.dll
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Electronic Learning System.pdb
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Electronic Learning System.exe
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Electronic Learning System.deps.json
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Electronic Learning System.runtimeconfig.json
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Electronic Learning System.runtimeconfig.dev.json
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Electronic Learning System.dll
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Electronic Learning System.pdb
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Electronic Learning System.Views.dll
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Electronic Learning System.Views.pdb
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Electronic Learning System.Views.pdb
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Electronic Learning System.genruntimeconfig.cache
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Electronic Learning System.csproj.CopyComplete
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Electronic Learning System.csprojAssemblyReference.cache
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\User\Details.cshtml.g.cs
+C:\Users\migde\source\repos\ISTA 322\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\User\Edit.cshtml.g.cs

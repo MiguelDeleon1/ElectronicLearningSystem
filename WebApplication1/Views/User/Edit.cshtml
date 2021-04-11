@@ -1,0 +1,30 @@
+﻿@model  Electronic_Learning_System.Models.User
+
+<h2> Edit User</h2>
+
+<form method="post">
+
+    DODID:
+    <input asp-for="DODID" /><br />
+
+    Password:
+    <input asp-for="Password" /><br />
+
+    Confirm Password:
+    <input asp-for="ConfirmPassword" /><br />
+
+    First Name:
+    <input asp-for="FirstName" /> <br />
+
+    Last Name:
+    <input asp-for="LastName" /> <br />
+
+    Occupation:
+    <input asp-for="Occupation" /><br />
+
+    Title:
+    <input asp-for="Title" /><br />
+    
+    <input type="submit" value="Update User" class="btn btn-sm btn-success" />
+
+</form>
