@@ -55,7 +55,7 @@ namespace Electronic_Learning_System.Controllers
             v.Occupation = "HR";
             v.Title = "SGT";
 
-            // 2. Display that User on a View.
+            // 2. Display that User on a View.//
             return View(v);
         }
         [HttpPost]
